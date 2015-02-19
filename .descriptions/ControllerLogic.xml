@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block
+    name="ControllerLogic" 
+    uuid="_sHsgU6uaEeSChZ-mcihBXg" 
+    status="under construction" 
+    type="block" 
+    >
+    <required>
+        <block name="c0" uuid="_CDPgcD5UEeSLNMcFh65MeQ"/>
+    </required>
+</block>
